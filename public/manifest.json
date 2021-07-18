@@ -1,3 +1,4 @@
+{
 "name": "Budget Tracker",
 "short_name": "Do You Even Budget?",
 "icons": [
@@ -40,10 +41,10 @@
         "src": "assets/images/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
-    },
+    }
 ],
 "theme_color": "#ffffff",
 "background_color": "#ffffff",
 "start_url": "/",
 "display": "standalone"
-}{
+}
